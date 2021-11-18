@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rhandypratama
-- 👀 I’m interested in Mobile and Web Programming
+- 👀 I’m interested in Mobile and Web Programming (Backend & Frontend)
 - 🌱 I’m currently learning something new technologies
 - 📫 How to reach me, drop email at pratamarhandy@gmail.com
 
